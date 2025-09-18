@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 ![Sathwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathwik-prog&show_icons=true&theme=tokyonight)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathwik-prog&layout=compact&theme=tokyonight)  
+## 🔥 GitHub Streak  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sathwik-prog&theme=tokyonight)
+
 
 
 
