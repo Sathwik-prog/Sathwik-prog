@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathwik-prog&layout=compact&theme=tokyonight)  
 ## 🔥 GitHub Streak  
+## 🏆 GitHub Trophies  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Sathwik-prog&theme=onedark)
+![Profile Views](https://komarev.com/ghpvc/?username=Sathwik-prog&color=blue)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sathwik-prog&theme=tokyonight)
 
