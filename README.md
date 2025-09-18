@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🔧 Skills & Tools  
+
+![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/Script-JavaScript-yellow?logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-purple?logo=bootstrap)
+![Git](https://img.shields.io/badge/Tools-Git-black?logo=git)
+
+
