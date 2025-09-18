@@ -21,5 +21,11 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/Script-JavaScript-yellow?logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-purple?logo=bootstrap)
 ![Git](https://img.shields.io/badge/Tools-Git-black?logo=git)
+## 📊 GitHub Stats  
+
+![Sathwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathwik-prog&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathwik-prog&layout=compact&theme=tokyonight)  
+
 
 
